@@ -1,7 +1,7 @@
 # Summarizing-Amazon-reviews-
 
 # Abstractive summarization:
-Initially amazon fine food reviews are taken and they are summarized to a shorter review using stacked LSTM
+Initially amazon fine food reviews is taken from kaggle and they are summarized to a shorter review using stacked LSTM
 
 # Sentiment of a review
 Given a review it determines whether a review is positive or negative
